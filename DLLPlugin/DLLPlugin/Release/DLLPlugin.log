@@ -1,0 +1,8 @@
+﻿  PluginSettings.cpp
+  SimpleClass.cpp
+  Wrapper.cpp
+     Creating library C:\Users\Apptist Inc\Desktop\100692252_Assignment1\DLLPlugin\Release\DLLPlugin.lib and object C:\Users\Apptist Inc\Desktop\100692252_Assignment1\DLLPlugin\Release\DLLPlugin.exp
+  Generating code
+  All 175 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DLLPlugin.vcxproj -> C:\Users\Apptist Inc\Desktop\100692252_Assignment1\DLLPlugin\Release\DLLPlugin.dll
